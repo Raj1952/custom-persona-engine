@@ -3,14 +3,12 @@
 
 # Run Ollama On Your Own Machine
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/ai-ollama-setup)
+**Project Link:** [View Project](https://learn.nextwork.org/thoughtful_turquoise_shy_bee/docs/ai-ollama-setup)
 
 **Author:** Rajvardhan Jagtap  
 **Email:** rajjagtap20320@gmail.com
 
 ---
-
-![Image](http://learn.nextwork.org/thoughtful_turquoise_shy_bee/uploads/ai-ollama-setup_n1p5r9t3)
 
 ---
 
