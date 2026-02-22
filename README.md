@@ -1,4 +1,5 @@
 # Ollama
+Description: A local AI implementation focused on privacy and custom personas. Built using Ollama to run open-source models (Gemma, Qwen) with specific system prompts and Modelfile configurations.
 # Run Ollama On Your Own Machine
 
 **Project Link:** [View Project](https://learn.nextwork.org/thoughtful_turquoise_shy_bee/docs/ai-ollama-setup)
